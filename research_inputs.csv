@@ -1,9 +1,0 @@
-input_type,asset_a,asset_b,value,confidence,notes
-market_cap,RELIANCE,,2000000,,INR crore
-market_cap,TCS,,1450000,,INR crore
-market_cap,HDFCBANK,,1250000,,INR crore
-market_cap,INFY,,650000,,INR crore
-market_cap,SBIN,,720000,,INR crore
-absolute_view,SBIN,,0.14,0.65,total return
-absolute_view,RELIANCE,,0.13,0.55,total return
-relative_view,HDFCBANK,TCS,0.04,0.60,HDFCBANK minus TCS
